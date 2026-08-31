@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BulkyBook.Business/BulkyBook.Business.csproj" Id="d144d6d7-e194-410c-b1a5-b594f39f7922" />
+  <Project Path="BulkyBook.DataAccess/BulkyBook.DataAccess.csproj" Id="4d6dcba2-2c51-4531-b261-9f0af811fc4b" />
+  <Project Path="BulkyBook.Models/BulkyBook.Models.csproj" Id="b203f691-b57a-472f-b5c4-7a49e8f65cd8" />
+  <Project Path="BulkyBook.Utility/BulkyBook.Utility.csproj" Id="a8986f89-8bc4-46c3-a634-1be104bd4b3f" />
+  <Project Path="BulkyBookWeb/BulkyBookWeb.csproj" />
+</Solution>
